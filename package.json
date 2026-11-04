@@ -1,0 +1,20 @@
+{
+  "name": "sayani-santra-portfolio",
+  "version": "1.0.0",
+  "description": "Personal developer portfolio of Sayani Santra - Full Stack Developer (MERN)",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "react",
+    "nextjs",
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Sayani Santra",
+  "license": "MIT"
+}
